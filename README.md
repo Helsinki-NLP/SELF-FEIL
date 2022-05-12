@@ -3,8 +3,8 @@
 These are the SELF (Sentiment and Emotion Lexicon for Finnish) and FEIL (Finnish Emotion Intensity Lexicon) lexicons for Finnish.
 They are based on the NRC Emotion Lexicons (http://saifmohammad.com/WebPages/lexicons.html) and are revised extensions of the automatic translations done by the original creator.
 
-To cite SELF or FEIL, please use the original lexicon citations (available below) and:
-* Emily Öhman, forthcoming. SELF & FEIL: Sentiment and Emotion Lexicons for Finnish.
+To cite SELF or FEIL, please use the original lexicon citations (available below) and (check that you have the correct version of the paper as the one on arxiv is slightly outdated):
+* Emily Öhman, 2022. SELF & FEIL: Sentiment and Emotion Lexicons for Finnish. In Proceeedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference (DHNB 2022).
 ```
 @inproceedings{ohman2022selffeil,
   title={SELF & FEIL: Sentiment and Emotion Lexicons for Finnish},
